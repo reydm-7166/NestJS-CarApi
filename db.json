@@ -1,0 +1,34 @@
+{
+  "cars": [
+    {
+      "name": "editedHONDA",
+      "model": "Idk man",
+      "year": "1999",
+      "id": 1
+    },
+    {
+      "name": "editedWHOLE",
+      "model": "Testttt",
+      "year": "2002",
+      "id": 2
+    },
+    {
+      "name": "Toyota",
+      "model": "TesttttModel",
+      "year": "2002",
+      "id": 3
+    },
+    {
+      "name": "Honda",
+      "model": "HondaModel",
+      "year": "2002",
+      "id": 4
+    },
+    {
+      "name": "Hyundai",
+      "model": "HyundaiModel",
+      "year": "2002",
+      "id": 5
+    }
+  ]
+}

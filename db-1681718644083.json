@@ -1,0 +1,19 @@
+{
+  "cars": [
+    {
+      "name": "Toyota",
+      "model": "Avalon",
+      "year": "1995"
+    },
+    {
+      "name": "Toyota",
+      "model": "Camry",
+      "year": "1996"
+    },
+    {
+      "name": "Toyota",
+      "model": "Corolla",
+      "year": "1997"
+    }
+  ]
+}
